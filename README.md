@@ -16,7 +16,14 @@ A **vibrant, aesthetic, and responsive personal portfolio** using **HTML, CSS, a
 - **Tools:** Git
 
 ## 📷 Screenshots
-*(Add screenshots of your homepage, projects section, and contact section here)*
+### 🏠 Homepage
+![Homepage](Home.png)
+
+### 💼 Projects Section
+![Projects](Project.png)
+
+### 📞 Contact Section
+![Contact](Contact.png)
 
 ## 📝 What I Learned
 ✅ Structuring and styling professional portfolio websites  
@@ -25,7 +32,7 @@ A **vibrant, aesthetic, and responsive personal portfolio** using **HTML, CSS, a
 ✅ Deployment on GitHub Pages for portfolio hosting
 
 ## 🔗 Live Demo
-[View Live Portfolio](https://yourusername.github.io/your-repo-name)
+[View Live Portfolio](http://127.0.0.1:5500/miniproject/main.html#projects)
 
 ## 📫 Contact
 - Email: prawintamilarasan@gmail.com
